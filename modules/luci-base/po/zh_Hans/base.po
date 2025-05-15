@@ -11869,3 +11869,8 @@ msgstr "温度"
 msgid "Modem"
 msgstr "蜂窝网络"
 
+msgid "Compiler author"
+msgstr "编译作者"
+ 
+msgid "Compile information"
+msgstr "编译信息"
