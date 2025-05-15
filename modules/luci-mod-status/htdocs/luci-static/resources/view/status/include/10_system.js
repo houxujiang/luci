@@ -95,7 +95,7 @@ return baseclass.extend({
 			) : null,
 			_('CPU usage (%)'),    cpuusage.cpuusage,
 			_('Compiler author'), 'houxujiang',
-			_('Compile information'), 'include driver: RealTek RTL8821CU; Intel Wireless 8260, AX210, IWL3945, bluetooth. Compiled date:2025.5.15.'
+			_('Compile information'), 'include driver: RealTek RTL8821CU; Intel AX210. Compiled date:2025.5.15.'
 		];
 
 		if (tempinfo.tempinfo) {
