@@ -14234,3 +14234,9 @@ msgstr "启用 CSA"
 
 msgid "Announce channel switches to clients. Automatic channel selection remains available when disabled."
 msgstr "向客户端通告信道切换。关闭后仍可自动选择信道。"
+
+msgid "Compiler author"
+msgstr "编译作者"
+
+msgid "Compile information"
+msgstr "编译信息"
